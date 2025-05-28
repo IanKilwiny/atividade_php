@@ -1,0 +1,2 @@
+[2025-05-28 19:37:41] Usuário realizou login.
+[2025-05-28 19:37:41] Pedido #1234 finalizado.
